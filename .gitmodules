@@ -1,0 +1,15 @@
+[submodule "akti"]
+	path = akti
+	url = https://github.com/canelhasmateus/akti.git
+[submodule "ormos"]
+	path = ormos
+	url = https://github.com/canelhasmateus/ormos.git
+[submodule "nisi"]
+	path = nisi
+	url = https://github.com/canelhasmateus/nisi.git
+[submodule "limni"]
+	path = limni
+	url = https://github.com/canelhasmateus/limni.git
+[submodule "roi"]
+	path = roi
+	url = https://github.com/canelhasmateus/roi.git
