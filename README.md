@@ -39,6 +39,11 @@ A Personal Knowledge Lake, in pure markdown. ZettelKasten is great.
 
 ___
 
+## Roi
+
+Scripts and workflow for the purposes of this project. 
+
+
 ## Nisi
 
 Private stuff.
